@@ -1,8 +1,13 @@
 body {
-  background: #fffef2;
+  background: rgba(255, 254, 242, 0.1);
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.posts {
+  border-right: 2px solid rgba(255,0,0, 0.2);
+  border-left: 2px solid rgba(255,0,0, 0.2);
 }
 
 .post {
