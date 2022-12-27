@@ -66,3 +66,17 @@ body {
   background: rgb(233, 215, 215);
   cursor: pointer;
 }
+
+.comments {
+  padding: 10px;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.comments input {
+  width: 370px;
+  height: 30px;
+  display: flex;
+  border-radius: 25px;
+  border: 1px solid #e4e4e4;
+  padding-left: 10px;
+}
